@@ -1,1 +1,9 @@
-text
+# Photography Portfolio
+
+A clean, responsive photography portfolio built with Next.js and Tailwind CSS.
+
+## Setup
+
+```bash
+npm install
+npm run dev
